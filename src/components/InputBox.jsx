@@ -1,5 +1,4 @@
 
-
 function InputBox({
     label,           
     amount,          
